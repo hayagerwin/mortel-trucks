@@ -469,10 +469,6 @@ body {
   align-items: center;
 }
 
-.contact-info {
-  space-y: 2rem;
-}
-
 .contact-item {
   display: flex;
   align-items: center;
@@ -549,11 +545,8 @@ textarea.form-input {
 
 /* Footer */
 .footer {
-  background-color: #333;
-  color: #fff;
+  background: #000;
+  color: white;
   text-align: center;
-  padding: 1rem 0;
-  position: relative;
-  bottom: 0;
-  width: 100%;
+  padding: 2rem 5%;
 }
